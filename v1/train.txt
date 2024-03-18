@@ -1,0 +1,1 @@
+The script includes sample data, tokenization, sequence padding, model architecture definition, and training code.
