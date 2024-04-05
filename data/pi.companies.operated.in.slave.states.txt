@@ -1,0 +1,23 @@
+    AIG: This insurance company sold policies that reimbursed slave owners for financial losses when enslaved people died.
+    CSX: This transportation company has roots in the slave trade and benefited from slave labor.
+    Brown University: This university, along with many others founded in the 18th and 19th centuries, benefited from the slave trade.
+    Bank of America: This bank has roots in institutions that profited from the slave trade.
+    Brooks Brothers: This clothing company sold uniforms to slave owners.
+    Brown Brothers Harriman: This investment bank has roots in the slave trade.
+    Fleet Boston: This bank has roots in institutions that profited from the slave trade.
+    JP Morgan Chase: This bank has roots in institutions that profited from the slave trade.    
+Aetna: This insurance company sold policies to slave owners and has publicly apologized for its historical ties to slavery.
+    Norfolk Southern: This transportation company has roots in the slave trade and has publicly acknowledged its history.
+    Tiffany & Co.: This jewelry company has historical ties to the slave trade and has publicly acknowledged its history.
+    Union Pacific: This transportation company has historical ties to the slave trade and has publicly acknowledged its history.
+    US Bank: This bank has historical ties to the slave trade and has publicly acknowledged its history.
+    Wachovia: This bank has historical ties to the slave trade and has publicly acknowledged its history.
+    Wells Fargo: This bank has historical ties to the slave trade and has publicly acknowledged its history.
+
+    Allstate: This insurance company has historical ties to the slave trade and has publicly acknowledged its history.
+    Lehman Brothers: This financial services company had ties to the slave trade and benefited from slave labor.
+    New York Life: This insurance company sold policies to slave owners and has publicly acknowledged its history.
+    United States Military Academy at West Point: This military academy has historical ties to slavery and has publicly acknowledged its history.
+    United States Naval Academy: This military academy has historical ties to slavery and has publicly acknowledged its history.
+    University of North Carolina at Chapel Hill: This university has historical ties to slavery and has publicly acknowledged its history.
+    University of South Carolina: This university has historical ties to slavery and has publicly acknowledged its history.
